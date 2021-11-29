@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
+
+#firstlink{
+    color:red;
+}
+#anasayfa{
+    color: white;
+}
+
+.About-us{
+    color: white;
+
+}
+
+.firstJumbo{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.list{
+    list-style-position: inside;
+}
+
+.jumbotron h1{
+    color: purple;
+}
+.jumbotron h3{
+    color: red;
+}
+.vizyon h2{
+  color: burlywood;
+}
+.misyon h2{
+     color: burlywood;
+}
